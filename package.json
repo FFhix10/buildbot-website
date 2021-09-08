@@ -4,8 +4,8 @@
     "compile": "harp compile src dist"
   },
   "devDependencies": {
-    "browser-sync": "^1.3.7",
-    "harp": "^0.23.0",
+    "browser-sync": "^2.25.0",
+    "harp": "^0.30.0",
     "livereloadx": "^0.3.9"
   },
   "dependencies": {
